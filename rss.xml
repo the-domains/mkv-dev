@@ -4,36 +4,8 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:51:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>android is the #windows of #mobile-phones</p>]]></description>
-            <link>https://twitter.com/makevoid/status/632958516546936832</link>
-            <guid isPermaLink="false">a27ddc9a-1e25-41e7-9e7d-f6f52c935fdd</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="The &commat;brightonruby talk about &commat;lotus&lowbar;rb just started&excl; Go &commat;jodosha &excl;" src="https://pbs.twimg.com/media/CKWMLekWoAAsAMA.jpg:large">]]></description>
-            <link>https://twitter.com/makevoid/status/623058253753241600</link>
-            <guid isPermaLink="false">a257687c-dbac-48fd-bc67-bf54ec5e2bbb</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>mruby-on-nginx #nginx https://github.com/matsumoto-r/ngx_mruby ... - alternative to configure and reload custom rules via #webapp to best use nginx @matsumotory</p>]]></description>
-            <link>https://twitter.com/makevoid/status/632733414630797312</link>
-            <guid isPermaLink="false">060f57c8-6ca3-4e09-a925-ccc89ad5439d</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Look ma! no backend! https://github.com/noBackend/nobackend.org ...</p>]]></description>
-            <link>https://twitter.com/makevoid/status/625824873827463169</link>
-            <guid isPermaLink="false">37d48e4b-8874-4059-b3a2-4a171a2c0df7</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[DataMapper - DataMapper]]></title>
             <description><![CDATA[<article><h1>DataMapper - DataMapper</h1><p>DataMapper is an Object Relational Mapper written in Ruby. The goal is to create an ORM which is fast, thread-safe and feature rich.</p></article>]]></description>
@@ -74,6 +46,34 @@
             <description><![CDATA[<p>https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html ... https://muut.com/blog/technology/you-spent-3.5-years-on-this.html ... Amazing posts @getmuut</p>]]></description>
             <link>https://twitter.com/makevoid/status/617829811109658624</link>
             <guid isPermaLink="false">e124df0e-dd75-42fd-85dc-1cb1e321fefd</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>awesome node signaler https://github.com/wouldgo/signaler ... by @dario_andrei #WebRTC used in http://github.com/720kb/TeachMusicRTC ...</p>]]></description>
+            <link>https://twitter.com/makevoid/status/587757037985075200</link>
+            <guid isPermaLink="false">2c5c09ea-2fd8-444b-81a0-eba307a92896</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Just made the Disque repo public, it's more alpha than alpha, but let's see what happens, private code is sad code: https://github.com/antirez/disque</p>]]></description>
+            <link>https://twitter.com/antirez/status/592722442147225600</link>
+            <guid isPermaLink="false">72f5ee5d-ca78-4d87-9d20-908481f83ae7</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://github.com/skade/widmann Sinatra in Rust !</p>]]></description>
+            <link>https://twitter.com/makevoid/status/592782954520289280</link>
+            <guid isPermaLink="false">2fc799f2-637c-44c0-b761-9e61f0aad38c</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lightning talk about Bitcoin and Ruby at @BathRuby video: https://www.youtube.com/watch?v=3ifeFIiOacA&t=18m10s ... slides: http://bitbath.mkvd.net</p>]]></description>
+            <link>https://twitter.com/makevoid/status/586566292578181122</link>
+            <guid isPermaLink="false">88eeac09-90b5-4fc5-ae24-193d2a13b9f7</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
         </item>
     </channel>
