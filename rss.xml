@@ -4,8 +4,57 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:50:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Cool explanation video about Service Workers by @sandropaganotti https://www.youtube.com/watch?v=WD3JElsUJlU ...</p>]]></description>
+            <link>https://twitter.com/makevoid/status/593196168634576896</link>
+            <guid isPermaLink="false">2bc45799-860b-4d42-b6bc-2ded0d1938b8</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>According to ruby-toolbox ActiveRecord popularity rating is 82.53 vs Sequel's 4.74. That's our sad reality.</p>]]></description>
+            <link>https://twitter.com/_solnic_/status/616912046295261184</link>
+            <guid isPermaLink="false">ca92cfc6-350f-4ce4-90f2-4dc32a92fa4f</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html ... https://muut.com/blog/technology/you-spent-3.5-years-on-this.html ... Amazing posts @getmuut</p>]]></description>
+            <link>https://twitter.com/makevoid/status/617829811109658624</link>
+            <guid isPermaLink="false">e124df0e-dd75-42fd-85dc-1cb1e321fefd</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>awesome node signaler https://github.com/wouldgo/signaler ... by @dario_andrei #WebRTC used in http://github.com/720kb/TeachMusicRTC ...</p>]]></description>
+            <link>https://twitter.com/makevoid/status/587757037985075200</link>
+            <guid isPermaLink="false">2c5c09ea-2fd8-444b-81a0-eba307a92896</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Just made the Disque repo public, it's more alpha than alpha, but let's see what happens, private code is sad code: https://github.com/antirez/disque</p>]]></description>
+            <link>https://twitter.com/antirez/status/592722442147225600</link>
+            <guid isPermaLink="false">72f5ee5d-ca78-4d87-9d20-908481f83ae7</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://github.com/skade/widmann Sinatra in Rust !</p>]]></description>
+            <link>https://twitter.com/makevoid/status/592782954520289280</link>
+            <guid isPermaLink="false">2fc799f2-637c-44c0-b761-9e61f0aad38c</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lightning talk about Bitcoin and Ruby at @BathRuby video: https://www.youtube.com/watch?v=3ifeFIiOacA&t=18m10s ... slides: http://bitbath.mkvd.net</p>]]></description>
+            <link>https://twitter.com/makevoid/status/586566292578181122</link>
+            <guid isPermaLink="false">88eeac09-90b5-4fc5-ae24-193d2a13b9f7</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>alias opal_new="echo '{}' > package.json && npm install opal --save" @elia my new project/starter/command/generator! so cool, thanks! :D</p>]]></description>
@@ -26,55 +75,6 @@
             <link>https://twitter.com/deruelle/status/587269621494984704</link>
             <guid isPermaLink="false">46e85902-121b-4796-b286-530984cdc6d7</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sinatrize mini - mini ruby web app generator script https://gist.github.com/makevoid/e5a7fd4c8c29e9b8051e ... run and check localhost:9292 ! >>></p>]]></description>
-            <link>https://twitter.com/makevoid/status/578718257097650177</link>
-            <guid isPermaLink="false">7b345e3e-8f09-47d1-8a40-00bd32480cc6</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>original Sinatrize: https://gist.github.com/makevoid/2385559 ...</p>]]></description>
-            <link>https://twitter.com/makevoid/status/578718275619725312</link>
-            <guid isPermaLink="false">9a72831f-a483-4620-8c53-d1cd2886ea21</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Rails and Merb Merge: The Anniversary (Part 1/6) http://tinyurl.com/yglbhsc #rails3 #wycats #awesome</p>]]></description>
-            <link>https://twitter.com/makevoid/status/7024801374</link>
-            <guid isPermaLink="false">8399ff24-9568-41eb-baa9-712b82c90786</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Least Surprised in "UnboundMyth'd"]]></title>
-            <description><![CDATA[<article><h1>The Least Surprised in "UnboundMyth'd"</h1><p>Malsky contemplates the dear friendship of the Ruby programming language, and all of its implications, but, when it falls upon deaf ears... uhhhh, satan?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7070176f6234c1d955e0c9d1bd77508ded2d755.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Du_RTMmofWM</link>
-            <guid isPermaLink="false">cd825c2f-96fe-47a0-8766-8456975e0924</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>developer to designer prank: put this line in his CSS: body * { -webkit-transform: rotateZ(-.2deg) }</p>]]></description>
-            <link>https://twitter.com/makevoid/status/93377188707053568</link>
-            <guid isPermaLink="false">3b95362f-0f09-408d-a62c-0dfab9b5a781</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Man is driven to create;I know I really love to create things.And while I'm not good at painting,drawing,or music,I can write software. Matz</p>]]></description>
-            <link>https://twitter.com/makevoid/status/4326009567</link>
-            <guid isPermaLink="false">f31a0b73-b3eb-4058-963e-0ea149f90e11</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>FiveTastic @railsberry lightning talk slides are online: http://presentation.fivetastic.org FiveTastic v0.2 will come soon!</p>]]></description>
-            <link>https://twitter.com/makevoid/status/193734666761674752</link>
-            <guid isPermaLink="false">f984918c-f4e4-4725-80eb-53cbd343deab</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
