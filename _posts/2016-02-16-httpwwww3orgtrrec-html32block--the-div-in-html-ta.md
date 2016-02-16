@@ -43,8 +43,8 @@ description: 'http://www.w3.org/TR/REC-html32#block ... the DIV in html tags sta
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/makevoid/status/646422601015889920'
-datePublished: '2016-02-16T23:47:26.454Z'
-dateModified: '2016-02-16T23:44:45.090Z'
+datePublished: '2016-02-16T23:47:26.694Z'
+dateModified: '2016-02-16T23:44:24.434Z'
 title: ''
 sourcePath: _posts/2016-02-16-httpwwww3orgtrrec-html32block--the-div-in-html-ta.md
 published: true
