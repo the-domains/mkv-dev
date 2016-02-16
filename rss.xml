@@ -4,43 +4,8 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:49:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://github.com/skade/widmann Sinatra in Rust !</p>]]></description>
-            <link>https://twitter.com/makevoid/status/592782954520289280</link>
-            <guid isPermaLink="false">2fc799f2-637c-44c0-b761-9e61f0aad38c</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lightning talk about Bitcoin and Ruby at @BathRuby video: https://www.youtube.com/watch?v=3ifeFIiOacA&t=18m10s ... slides: http://bitbath.mkvd.net</p>]]></description>
-            <link>https://twitter.com/makevoid/status/586566292578181122</link>
-            <guid isPermaLink="false">88eeac09-90b5-4fc5-ae24-193d2a13b9f7</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>alias opal_new="echo '{}' > package.json && npm install opal --save" @elia my new project/starter/command/generator! so cool, thanks! :D</p>]]></description>
-            <link>https://twitter.com/makevoid/status/587751401402544128</link>
-            <guid isPermaLink="false">caf04b14-b8ef-487c-be2c-548182bb4413</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>MyoJS - https://github.com/logotype/MyoJS + AudioContext (Audio Api) + BiquadFilterNode https://developer.mozilla.org/en-US/docs/Web/API/BiquadFilterNode ... #coolThingsToTry</p>]]></description>
-            <link>https://twitter.com/makevoid/status/587737849849589760</link>
-            <guid isPermaLink="false">e49aa759-0815-4e65-82be-487775050dc2</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;makevoid on stage for eMusic WebRTC demo with randy &commat;voipusers playing piano remotely &commat;TADHack" src="https://pbs.twimg.com/media/CCZmmuuWEAA-8t9.jpg:large">]]></description>
-            <link>https://twitter.com/deruelle/status/587269621494984704</link>
-            <guid isPermaLink="false">46e85902-121b-4796-b286-530984cdc6d7</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sinatrize mini - mini ruby web app generator script https://gist.github.com/makevoid/e5a7fd4c8c29e9b8051e ... run and check localhost:9292 ! >>></p>]]></description>
@@ -74,6 +39,41 @@
             <description><![CDATA[<p>developer to designer prank: put this line in his CSS: body * { -webkit-transform: rotateZ(-.2deg) }</p>]]></description>
             <link>https://twitter.com/makevoid/status/93377188707053568</link>
             <guid isPermaLink="false">3b95362f-0f09-408d-a62c-0dfab9b5a781</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Man is driven to create;I know I really love to create things.And while I'm not good at painting,drawing,or music,I can write software. Matz</p>]]></description>
+            <link>https://twitter.com/makevoid/status/4326009567</link>
+            <guid isPermaLink="false">f31a0b73-b3eb-4058-963e-0ea149f90e11</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>FiveTastic @railsberry lightning talk slides are online: http://presentation.fivetastic.org FiveTastic v0.2 will come soon!</p>]]></description>
+            <link>https://twitter.com/makevoid/status/193734666761674752</link>
+            <guid isPermaLink="false">f984918c-f4e4-4725-80eb-53cbd343deab</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Tirare giù il web" @florenceonruby talk repository: https://github.com/makevoid/prezirb ... - added Gemfile and install instructions</p>]]></description>
+            <link>https://twitter.com/makevoid/status/206449384660025345</link>
+            <guid isPermaLink="false">ce495461-d083-4cdb-ab10-c5081c5ebd8c</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>wow: http://maxtaco.github.com/coffee-script/ await and defer was what I was looking for! bye bye ugly nested callbacks</p>]]></description>
+            <link>https://twitter.com/makevoid/status/163404956899090432</link>
+            <guid isPermaLink="false">90334b75-982b-4c1b-932c-49c3d159041f</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[28c3: The coming war on general computation]]></title>
+            <description><![CDATA[<article><h1>28c3: The coming war on general computation</h1><p>Download hiqh quality version: http://bit.ly/sTTFyt Description: http://events.ccc.de/congress/2011/Fahrplan/events/4848.en.html Cory Doctorow: The coming war on general computation The copyright war was just the beginning The last 20 years of Internet policy have been dominated by the copyright war, but the war turns out only to have been a skirmish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/808dae335503718b68694be5f263eadd337269c5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=HUEvRyemKSg</link>
+            <guid isPermaLink="false">a3b0e597-71d4-4cec-ac3e-28a8e129b6ea</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
         </item>
     </channel>
