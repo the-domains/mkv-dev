@@ -4,15 +4,8 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:51:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Opal (@opalrb) is the most universally deployable ruby vm / implementation / platform just because JS - #matzruby @rubinius @jruby sorry :D</p>]]></description>
-            <link>https://twitter.com/makevoid/status/634470659821801472</link>
-            <guid isPermaLink="false">2f72f1f5-2158-4d2b-95c4-c8acf510b783</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>android is the #windows of #mobile-phones</p>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<p>According to ruby-toolbox ActiveRecord popularity rating is 82.53 vs Sequel's 4.74. That's our sad reality.</p>]]></description>
             <link>https://twitter.com/_solnic_/status/616912046295261184</link>
             <guid isPermaLink="false">ca92cfc6-350f-4ce4-90f2-4dc32a92fa4f</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html ... https://muut.com/blog/technology/you-spent-3.5-years-on-this.html ... Amazing posts @getmuut</p>]]></description>
+            <link>https://twitter.com/makevoid/status/617829811109658624</link>
+            <guid isPermaLink="false">e124df0e-dd75-42fd-85dc-1cb1e321fefd</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
         </item>
     </channel>
