@@ -4,8 +4,22 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:52:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Language Agnosticism ... its entire purpose stems from the desire to reduce the amount of programming language religion in the world.</p>]]></description>
+            <link>https://twitter.com/makevoid/status/634479433353707520</link>
+            <guid isPermaLink="false">ae293a5b-e554-4009-be3c-f304c6a93eb9</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Really cool blog post about Roda by @jankomarohnic http://twin.github.io/introduction-to-roda/ ...</p>]]></description>
+            <link>https://twitter.com/_solnic_/status/634024413541855232</link>
+            <guid isPermaLink="false">6e57c8bb-89be-4d84-827e-3d15dcebedc7</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ROM " Home]]></title>
             <description><![CDATA[<article><h1>ROM &quot; Home</h1></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<p>this looks supercool http://w3c.github.io/web-nfc/releases/20150515/ ... @w3c #NFC</p>]]></description>
             <link>https://twitter.com/makevoid/status/617825987200446464</link>
             <guid isPermaLink="false">9d776cfe-f2ca-4301-bc43-c427125d9944</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ruby #Roda is too fast, please do something to stop it! http://roda.jeremyevans.net</p>]]></description>
-            <link>https://twitter.com/makevoid/status/603502885549256705</link>
-            <guid isPermaLink="false">8257a6c3-5cdc-42d5-926a-7c4013e87ed7</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Cool explanation video about Service Workers by @sandropaganotti https://www.youtube.com/watch?v=WD3JElsUJlU ...</p>]]></description>
-            <link>https://twitter.com/makevoid/status/593196168634576896</link>
-            <guid isPermaLink="false">2bc45799-860b-4d42-b6bc-2ded0d1938b8</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
         </item>
     </channel>
