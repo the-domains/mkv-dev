@@ -4,36 +4,8 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:53:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"The omission of NFC is particularly rough given that Android Pay will be launching soon" http://arstechnica.co.uk/?p=37635 No NFC? no party! @oneplus</p>]]></description>
-            <link>https://twitter.com/makevoid/status/634828941220519936</link>
-            <guid isPermaLink="false">c75a5c8a-ba18-4c00-b692-de15cc6f4ab8</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.w3.org/TR/REC-html32#block ... the DIV in html tags stands for division, document division</p>]]></description>
-            <link>https://twitter.com/makevoid/status/646422601015889920</link>
-            <guid isPermaLink="false">ae5deadf-155b-45c1-9c7a-a7bca9ac8f9c</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portal]]></title>
-            <description><![CDATA[<article><h1>Portal</h1><p>Portal is a game that consists of a series of puzzles that must be solved by teleporting the player's character and simple objects from one place to another. In order to teleport, the player uses the Portal gun to shoot doors onto flat planes, like a floor or a wall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21582d6d7231921ff9d54a9576ac9fa683426da3.jpg"></article>]]></description>
-            <link>https://howistart.org/posts/elixir/1</link>
-            <guid isPermaLink="false">b50c21ab-89ca-4a59-bccb-0d0010f07169</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://github.com/mfeckie/ember-cli-opal-rb ... Include Ruby in your Ember.js (@emberjs) app</p>]]></description>
-            <link>https://twitter.com/makevoid/status/634479049876897797</link>
-            <guid isPermaLink="false">f9c00912-35ab-477e-a267-07cc95737918</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>@antirez : "Perche' le liste, i set, gli hash, se vengono da alpha centauri gli alieni, li conoscono pure loro!" https://vimeo.com/21539227 9m</p>]]></description>
@@ -75,6 +47,34 @@
             <link>http://rom-rb.org/</link>
             <guid isPermaLink="false">cfdec53f-bb2c-4cfa-bf7c-cb857f609a69</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Opal (@opalrb) is the most universally deployable ruby vm / implementation / platform just because JS - #matzruby @rubinius @jruby sorry :D</p>]]></description>
+            <link>https://twitter.com/makevoid/status/634470659821801472</link>
+            <guid isPermaLink="false">2f72f1f5-2158-4d2b-95c4-c8acf510b783</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>android is the #windows of #mobile-phones</p>]]></description>
+            <link>https://twitter.com/makevoid/status/632958516546936832</link>
+            <guid isPermaLink="false">a27ddc9a-1e25-41e7-9e7d-f6f52c935fdd</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The &commat;brightonruby talk about &commat;lotus&lowbar;rb just started&excl; Go &commat;jodosha &excl;" src="https://pbs.twimg.com/media/CKWMLekWoAAsAMA.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/623058253753241600</link>
+            <guid isPermaLink="false">a257687c-dbac-48fd-bc67-bf54ec5e2bbb</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>mruby-on-nginx #nginx https://github.com/matsumoto-r/ngx_mruby ... - alternative to configure and reload custom rules via #webapp to best use nginx @matsumotory</p>]]></description>
+            <link>https://twitter.com/makevoid/status/632733414630797312</link>
+            <guid isPermaLink="false">060f57c8-6ca3-4e09-a925-ccc89ad5439d</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
