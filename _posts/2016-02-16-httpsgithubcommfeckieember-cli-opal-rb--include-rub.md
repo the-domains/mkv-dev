@@ -33,8 +33,8 @@ description: 'https://github.com/mfeckie/ember-cli-opal-rb ... Include Ruby in y
 inLanguage: it
 app_links: []
 isBasedOnUrl: 'https://twitter.com/makevoid/status/634479049876897797'
-datePublished: '2016-02-16T23:47:26.142Z'
-dateModified: '2016-02-16T23:44:47.370Z'
+datePublished: '2016-02-16T23:47:26.361Z'
+dateModified: '2016-02-16T23:44:37.232Z'
 title: ''
 sourcePath: _posts/2016-02-16-httpsgithubcommfeckieember-cli-opal-rb--include-rub.md
 published: true
