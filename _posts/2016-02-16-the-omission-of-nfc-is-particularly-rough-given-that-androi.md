@@ -43,8 +43,8 @@ description: '"The omission of NFC is particularly rough given that Android Pay 
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/makevoid/status/634828941220519936'
-datePublished: '2016-02-16T23:47:26.292Z'
-dateModified: '2016-02-16T23:44:46.588Z'
+datePublished: '2016-02-16T23:47:26.542Z'
+dateModified: '2016-02-16T23:44:31.499Z'
 title: ''
 sourcePath: _posts/2016-02-16-the-omission-of-nfc-is-particularly-rough-given-that-androi.md
 published: true
