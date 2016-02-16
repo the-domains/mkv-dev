@@ -4,15 +4,8 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:49:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>original Sinatrize: https://gist.github.com/makevoid/2385559 ...</p>]]></description>
-            <link>https://twitter.com/makevoid/status/578718275619725312</link>
-            <guid isPermaLink="false">9a72831f-a483-4620-8c53-d1cd2886ea21</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Rails and Merb Merge: The Anniversary (Part 1/6) http://tinyurl.com/yglbhsc #rails3 #wycats #awesome</p>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Confreaks TV | Real Time Rack - Rocky Mountain Ruby 2011</h1><p>Confreaks TV</p></article>]]></description>
             <link>http://confreaks.tv/videos/rockymtnruby2011-real-time-rack</link>
             <guid isPermaLink="false">f00caf5d-ad6d-493e-8cc7-200064bf6d8f</guid>
+            <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The greatest luxury of my life is being able to afford the time and money to learn as much as I can, as fast as my brain can handle it.</p>]]></description>
+            <link>https://twitter.com/topfunky/status/18925915213</link>
+            <guid isPermaLink="false">1b2fd385-80b8-4745-b4a0-f4c36d1ff571</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:24 GMT</pubDate>
         </item>
     </channel>
