@@ -1,9 +1,7 @@
-favicon: null
 name: mkv-dev
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.69129
+typography_spectrum: 0.1408094
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7596965
-  brandStrength: 0.1843639025464654
-  lightness: 0.5177066
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.1843639025464654
+  lightness: 0.5177066
+  saturation: 0.7596965
   rhythmicContrast: 0.8372681
-typography_spectrum: 0.1408094
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
