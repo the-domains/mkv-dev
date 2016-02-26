@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/makevoid/status/578718275619725312'
+inLanguage: it
+starred: false
+keywords: []
+description: 'original Sinatrize: https://gist.github.com/makevoid/2385559 ...'
+datePublished: '2016-02-26T01:26:42.620Z'
+dateModified: '2016-02-26T01:26:42.225Z'
 author:
   - name: makevoid
     url: 'http://twitter.com/makevoid'
@@ -23,26 +33,20 @@ author:
           - 130
           - 138
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords: []
-description: 'original Sinatrize: https://gist.github.com/makevoid/2385559 ...'
-inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://twitter.com/makevoid/status/578718275619725312'
-datePublished: '2016-02-16T23:47:25.048Z'
-dateModified: '2016-02-16T23:45:18.765Z'
 title: ''
 sourcePath: _posts/2016-02-16-original-sinatrize-httpsgistgithubcommakevoid2385559.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbd3f4fa-3a44-4e8a-8915-179159419de2.png)
+
 > original Sinatrize&colon; https&colon;&sol;&sol;gist&period;github&period;com&sol;makevoid&sol;2385559 &period;&period;&period;
