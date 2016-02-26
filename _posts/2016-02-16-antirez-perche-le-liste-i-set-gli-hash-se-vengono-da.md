@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/makevoid/status/642711124648034304'
+inLanguage: it
+starred: false
+keywords: []
+description: "@antirez : \"Perche' le liste, i set, gli hash, se vengono da alpha centauri gli alieni, li conoscono pure loro!\" https://vimeo.com/21539227 9m"
+datePublished: '2016-02-26T01:28:47.641Z'
+dateModified: '2016-02-26T01:28:46.383Z'
 author:
   - name: makevoid
     url: 'http://twitter.com/makevoid'
@@ -23,26 +33,20 @@ author:
           - 130
           - 138
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords: []
-description: "@antirez : \"Perche' le liste, i set, gli hash, se vengono da alpha centauri gli alieni, li conoscono pure loro!\" https://vimeo.com/21539227 9m"
-inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://twitter.com/makevoid/status/642711124648034304'
-datePublished: '2016-02-16T23:47:26.674Z'
-dateModified: '2016-02-16T23:44:27.259Z'
 title: ''
 sourcePath: _posts/2016-02-16-antirez-perche-le-liste-i-set-gli-hash-se-vengono-da.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bce8c27-aef7-4e70-924d-e2eccbfcbd68.png)
+
 > &commat;antirez &colon; "Perche' le liste&comma; i set&comma; gli hash&comma; se vengono da alpha centauri gli alieni&comma; li conoscono pure loro&excl;" https&colon;&sol;&sol;vimeo&period;com&sol;21539227 9m
