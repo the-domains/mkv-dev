@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/thepixbits/status/133648928188006400'
+inLanguage: en
+starred: false
+keywords:
+  - junkjack
+  - appstore
+  - indiegaming
+  - minecraft
+  - app
+  - location
+  - ios
+  - twitter
+  - store
+  - tweet
+description: 'Junk Jack hits the App Store! http://itunes.apple.com/us/app/junk-jack/id436555490?ls=1&mt=8 ... #junkjack #minecraft #ios #indiegaming #appstore'
+datePublished: '2016-02-26T01:24:35.621Z'
+dateModified: '2016-02-26T01:24:34.230Z'
 author:
   - name: thepixbits
     url: 'http://twitter.com/thepixbits'
@@ -23,34 +43,16 @@ author:
           - 129
           - 23
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - junkjack
-  - appstore
-  - indiegaming
-  - minecraft
-  - app
-  - location
-  - ios
-  - twitter
-  - store
-  - tweet
-description: 'Junk Jack hits the App Store! http://itunes.apple.com/us/app/junk-jack/id436555490?ls=1&mt=8 ... #junkjack #minecraft #ios #indiegaming #appstore'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/thepixbits/status/133648928188006400'
-datePublished: '2016-02-16T23:47:24.526Z'
-dateModified: '2016-02-16T23:45:30.257Z'
 title: ''
 sourcePath: _posts/2016-02-16-junk-jack-hits-the-app-store-httpitunesapplecomusapp.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
