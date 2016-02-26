@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/makevoid/status/592782954520289280'
+inLanguage: it
+starred: false
+keywords: []
+description: 'https://github.com/skade/widmann Sinatra in Rust !'
+datePublished: '2016-02-26T01:25:17.773Z'
+dateModified: '2016-02-26T01:25:16.950Z'
 author:
   - name: makevoid
     url: 'http://twitter.com/makevoid'
@@ -23,26 +33,20 @@ author:
           - 130
           - 138
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords: []
-description: 'https://github.com/skade/widmann Sinatra in Rust !'
-inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://twitter.com/makevoid/status/592782954520289280'
-datePublished: '2016-02-16T23:47:25.306Z'
-dateModified: '2016-02-16T23:45:09.766Z'
 title: ''
 sourcePath: _posts/2016-02-16-httpsgithubcomskadewidmann-sinatra-in-rust.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c6cedf-a598-4431-81c6-77d0010acaba.jpg)
+
 > https&colon;&sol;&sol;github&period;com&sol;skade&sol;widmann Sinatra in Rust &excl;
