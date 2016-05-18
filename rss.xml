@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-dev]]></description>
         <link>https://thegrid.ai/mkv-dev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 01:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 09:56:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fixnum + Bignum => Integerhttps://github.com/ruby/ruby/commit/f9727c12cc8fbc5f752f5983be1f14bb976e5a13 ...</p>]]></description>
+            <link>https://twitter.com/makevoid/status/732476494669176833</link>
+            <guid isPermaLink="false">6c34e81b-8c87-4ba7-8a05-09db0fd98e8a</guid>
+            <pubDate>Wed, 18 May 2016 09:56:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bce8c27-aef7-4e70-924d-e2eccbfcbd68.png">]]></description>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.w3.org/TR/REC-html32#block ... the DIV in html tags stands for division, document division</p>]]></description>
+            <description><![CDATA[http://www.w3.org/TR/REC-html32#block ... the DIV in html tags stands for division, document division]]></description>
             <link>https://twitter.com/makevoid/status/646422601015889920</link>
             <guid isPermaLink="false">cf74449c-abc8-46bf-99d2-6cda64f9219d</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>@antirez : "Perche' le liste, i set, gli hash, se vengono da alpha centauri gli alieni, li conoscono pure loro!" https://vimeo.com/21539227 9m</p>]]></description>
             <link>https://twitter.com/makevoid/status/642711124648034304</link>
             <guid isPermaLink="false">7bb49283-de3a-4ef2-9ebc-25181b92ab3f</guid>
-            <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"The omission of NFC is particularly rough given that Android Pay will be launching soon" http://arstechnica.co.uk/?p=37635 No NFC? no party! @oneplus</p>]]></description>
-            <link>https://twitter.com/makevoid/status/634828941220519936</link>
-            <guid isPermaLink="false">c75a5c8a-ba18-4c00-b692-de15cc6f4ab8</guid>
             <pubDate>Tue, 16 Feb 2016 23:47:26 GMT</pubDate>
         </item>
     </channel>
